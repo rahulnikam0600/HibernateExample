@@ -21,9 +21,9 @@
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>
-			<version>6.6.6.Final</version>
-			<type>pom</type>
-		</dependency>
+			<version>6.2.5.Final</version>
+<!--			<type>pom</type>
+-->		</dependency>
 		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 		<dependency>
 			<groupId>mysql</groupId>
